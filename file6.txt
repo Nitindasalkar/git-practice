@@ -1,1 +1,2 @@
 this is file 6
+this is line 2 in file 6
